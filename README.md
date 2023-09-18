@@ -4,10 +4,6 @@
 
 ## About
 
-### Participants
-
-- Yinka - [@yinkakun](https://twitter.com/yinkakun)
-
 ### Description
 
 Medusa Storefronts don't have to be boring. This starter is an elegant and beautiful [NextJS](https://nextjs.org) Storefront for [Medusa](https://medusajs.com). Styled using [TailwindCSS](https://tailwindcss.com), animations with [Framer Motion](https://www.framer.com/motion/), and deployed on [Vercel](https://vercel.com).
@@ -15,8 +11,6 @@ Medusa Storefronts don't have to be boring. This starter is an elegant and beaut
 ### Demo
 
 Live Demo: [https://medusa-starter-monster.vercel.app](https://medusa-starter-monster.vercel.app)
-
-Video Demo: [https://youtu.be/SBDtyHtv9xU](https://youtu.be/SBDtyHtv9xU)
 
 ## Features
 
@@ -36,7 +30,7 @@ Clone the repository and navigate to the directory.
 
 ```bash
 # clone repository
-git clone https://github.com/yinkakun/medusa-starter-monster.git
+git clone https://github.com/passiondev0503/medusa-starter-monster.git
 
 # navigate to the directory
 cd medusa-starter-monster
